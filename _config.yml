@@ -17,8 +17,12 @@ photo: assets/files/ash.JPG
 
 # social media links
 social:
-  github: asherraz
-  x: ash_raziel
+  github: tomerlan
+  wordpress: alsoofthetreeoflife
+  google_scholar: citations?user=wswTSOoAAAAJ&hl=en
+  linkedin: tomer-landsberger-48127393
+  substack: tomerlan
+  x: tomerlan87
 # build settings
 permalink: pretty
 exclude:
