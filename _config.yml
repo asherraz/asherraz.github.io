@@ -1,19 +1,19 @@
-title: Tomer Landsberger
+title: Asher Raz
 description: My webpage
 baseurl: ""
-url: https://tomerlan.github.io
+url: https://asherraz.github.io
 
 #theme: cvless
 
 # site settings
-taglong: Hmmm... Nope
+taglong: Hmm... Yep
 tagshort:
 
 # author settings
 author:
-  name: Tomer Landsberger
-  email: tomer.landsberger@gmail.com
-photo: assets/files/avatar.png
+  name: Asher Raz
+  email: gmon01
+photo: assets/files/ash.JPG
 
 # social media links
 social:
