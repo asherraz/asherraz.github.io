@@ -16,12 +16,13 @@ author:
 photo: assets/files/ash.JPG
 
 # social media links
-# social:
-#   github: asherraz
-#
-#   linkedin: ashraz
-#
-#   x: ash_raziel
+social:
+  github: asherraz
+  wordpress: alsoofthetreeoflife
+  # google_scholar: citations?user=wswTSOoAAAAJ&hl=en
+  linkedin: ashraz
+  substack: tomerlan
+  x: ash_raziel
 # build settings
 permalink: pretty
 exclude:
@@ -35,5 +36,5 @@ plugins:
 analytics:
   provider: google
   google:
-    tracking_id: G-DMHRV5LZQL
+    tracking_id: 
 exclude: ['archive']
