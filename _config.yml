@@ -16,12 +16,12 @@ author:
 photo: assets/files/ash.JPG
 
 # social media links
-social:
-  github: asherraz
-
-  linkedin: ashraz
-
-  x: ash_raziel
+# social:
+#   github: asherraz
+#
+#   linkedin: ashraz
+#
+#   x: ash_raziel
 # build settings
 permalink: pretty
 exclude:
